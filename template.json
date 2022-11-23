@@ -1,0 +1,24 @@
+{
+	"Actor":{},
+	"Item": {
+		"types":[
+		"weapon"
+		],
+		"templates":{
+			"itemDescryption":{
+				"descryption":""
+			}
+		}
+		"weapon":{
+			"templates":[
+				"itemDescryption"
+			],
+			"attackWith": "szermierka",
+			"damage":0,
+			"damageType":"Physical",
+			"ranged":false,
+			"range":0,
+			"finese":false,
+		}
+	}
+}
