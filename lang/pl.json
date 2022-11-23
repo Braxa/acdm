@@ -1,0 +1,18 @@
+{
+	"fs2e":{
+		"attack":{
+			"none": "",
+			"martialArts": "Bijatyka",
+			"meeleWeapons": "Szermierka",
+			"rangedWeapons": "Strzelectwo"
+		},
+		"weapon":{
+			"attackWith": "Typ ataku:",
+			"damage": "Obrażeń",
+			"damageType":"Typ obrażeń",
+			"ranged": "Broń zasięgowa?",
+			"range": "Zasięg",
+			"finese": "Używa finezji?"
+		}
+	}
+}

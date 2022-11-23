@@ -1,9 +1,8 @@
 {
     "id": "acdm",
     "version": "0.1",
-    "title": "Simple World-Building",
-    "url": "https://gitlab.com/foundrynet/worldbuilding/",
-    "description": "A minimalist game system which provides configurable Actor and Item templates to support free-form system agnostic game-play.",
+    "title": "Mage Academy",
+    "description": "Rpg system to play a wizardry school",
     "license": "LICENSE.txt",
     "authors": [
       {
