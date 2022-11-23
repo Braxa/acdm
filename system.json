@@ -1,0 +1,29 @@
+{
+    "id": "acdm",
+    "version": "0.1",
+    "title": "Simple World-Building",
+    "url": "https://gitlab.com/foundrynet/worldbuilding/",
+    "description": "A minimalist game system which provides configurable Actor and Item templates to support free-form system agnostic game-play.",
+    "license": "LICENSE.txt",
+    "authors": [
+      {
+        "name": "braxa"
+      }
+    ],
+    "esmodules": [],
+    "styles": [],
+    "packs": [],
+    "languages": [],
+    "compatibility": {
+      "minimum": "10",
+      "verified": "10.288",
+      "maximum": "10"
+    },
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": "health",
+    "secondaryTokenAttribute": "power",
+    "manifest": "https://raw.githubusercontent.com/foundryvtt/worldbuilding/master/system.json",
+    "download": "https://github.com/foundryvtt/worldbuilding/archive/refs/tags/release-072.zip"
+  }
+  
