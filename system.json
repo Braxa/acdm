@@ -9,10 +9,16 @@
         "name": "braxa"
       }
     ],
-    "esmodules": [],
+    "esmodules": ["acdm.js"],
     "styles": [],
     "packs": [],
-    "languages": [],
+    "languages": [
+        {
+            "lang": "pl",
+		    "name": "Polish",
+            "path": "lang/pl.json"
+        }
+    ],
     "compatibility": {
       "minimum": "10",
       "verified": "10.288",

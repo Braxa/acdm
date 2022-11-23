@@ -1,8 +1,8 @@
-export const acd = {};
+export const acdm = {};
 
-acd.attackTypes = {
+acdm.attackTypes = {
 none: "",
-martialArts: "acd.attack.Brawl",
-meeleWeapons: "acd.attack.Fencing",
-rangedWeapons: "acd.attack.Firearms",
+martialArts: "acdm.attack.Brawl",
+meeleWeapons: "acdm.attack.Fencing",
+rangedWeapons: "acdm.attack.Firearms"
 }
