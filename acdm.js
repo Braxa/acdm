@@ -1,4 +1,4 @@
- import acdItemSheet from "./module/sheets/acdmItemSheet.js";
+ import acdmItemSheet from "./module/sheets/acdmItemSheet.js";
  import acdmItemSheet, {acdm} from "./module/sheets/acdmItemSheet.js"
  
  Hooks.once("init", function(){
