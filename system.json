@@ -28,7 +28,7 @@
     "gridUnits": "ft",
     "primaryTokenAttribute": "health",
     "secondaryTokenAttribute": "power",
-    "manifest": "https://github.com/Braxa/acdm/blob/main/system.json",
+    "manifest": "https://github.com/Braxa/acdm/blob/e04c39c6ef99427d4d9730ead1fa33d12f368908/system.json#L1-L34",
     "download": "https://github.com/Braxa/acdm/archive/refs/heads/main.zip"
   }
   
