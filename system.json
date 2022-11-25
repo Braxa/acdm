@@ -10,7 +10,7 @@
       }
     ],
     "esmodules": ["acdm.js"],
-    "styles": [],
+    "styles": ["acdm.css"],
     "packs": [],
     "languages": [
         {
