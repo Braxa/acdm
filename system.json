@@ -14,9 +14,9 @@
     "packs": [],
     "languages": [
         {
-            "lang": "pl",
-		    "name": "Polish",
-            "path": "lang/pl.json"
+          "lang": "en",
+          "name": "English",
+          "path": "lang/en.json"
         }
     ],
     "compatibility": {
